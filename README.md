@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-✨Welcome to my github profile. Here you can see some of my projects.✨
+Welcome to my github profile.
 
 Here are some of my _stats_:
 
