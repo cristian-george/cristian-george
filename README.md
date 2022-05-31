@@ -35,11 +35,3 @@
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cristian-george&theme=github-dark-blue" alt="cristian-george" />
 </p>
-
-<br>
-
-<p align="center">
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=cristian-george&theme=react-dark&area=true&hide_border=true" width="100%">
-  </a>
-</p>
