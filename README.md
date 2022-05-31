@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Cristi! 😊</h1>
+<h2 align="center">Hi, I'm Cristi! 😊</h2>
 
 <h3 align="center">Welcome to my github profile 👋</h3>
 
@@ -6,11 +6,12 @@
 
 - 📚 I’m currently learning **WPF**
 
-- 💻 **C++, C#, SQL**
+- 💻 **C++, C#, Java, SQL**
 
 - 📬 How to reach me **cristian.fieraru01@gmail.com**
 
 <br>
+
 <h3 align="center">Connect with me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/cristian-fieraru/" target="blank">
@@ -22,27 +23,19 @@
 </p>
 
 <br>
-<br>
 
-<p align="center">&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cristian-george&show_icons=true&locale=en&theme=react" alt="cristian-george" />
+<p align="center">
+  <img align="center" width="390" height= "200" src="https://github-readme-stats.vercel.app/api?username=cristian-george&show_icons=true&locale=en&theme=github_dark" alt="cristian-george" />
+
+  <img align="center" width="450" height= "150" src="https://github-readme-stats.vercel.app/api/top-langs?username=cristian-george&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="cristian-george" />
 </p>
 
-<br>
 <br>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cristian-george&theme=react" alt="cristian-george" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cristian-george&theme=github-dark-blue" alt="cristian-george" />
 </p>
 
-<br>
-<br>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cristian-george&show_icons=true&locale=en&layout=compact&theme=react" alt="cristian-george" />
-</p>
-
-<br>
 <br>
 
 <p align="center">
