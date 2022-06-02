@@ -1,14 +1,16 @@
-<h2 align="center">Hi, I'm Cristi! 😊</h2>
+<h2 align="center">Hi there, I'm Cristi! 😊</h2>
 
 <h3 align="center">Welcome to my github profile 👋</h3>
 
 <br>
 
-- 📚 I’m currently learning **WPF**
+- 📚 I’m currently learning... **Kotlin** 
 
-- 💻 **C++, C#, Java, SQL**
+- 💻 Programming languages that I'm using... **C++, C#, SQL, Java, Python**
 
-- 📬 How to reach me **cristian.fieraru01@gmail.com**
+- 📬 How to reach me... **cristian.fieraru01@gmail.com**
+
+- 🕺 Fun fact... I've been part of a folk dance group for more than **10 years**
 
 <br>
 
