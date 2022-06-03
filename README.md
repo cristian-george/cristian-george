@@ -1,6 +1,6 @@
-<h2 align="center">Hi there, I'm Cristi! 😊</h2>
-
-<h3 align="center">Welcome to my github profile 👋</h3>
+<h2 align="center">Hi there, I'm Cristi! 😊
+  
+  Welcome to my github profile 👋</h3>
 
 ## About me
 
