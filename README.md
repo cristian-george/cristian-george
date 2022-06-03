@@ -2,7 +2,9 @@
 
 <h3 align="center">Welcome to my github profile 👋</h3>
 
-<br>
+## About me
+
+Enthusiast student passionate about technology. Open to deepen my theoretical and practical knowledge.
 
 - 📚 I’m currently learning... **Kotlin** 
 
