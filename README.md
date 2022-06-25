@@ -6,7 +6,7 @@
 
 Enthusiast student passionate about technology. Open to deepen my theoretical and practical knowledge.
 
-- 📚 I’m currently learning... **Kotlin** 
+- 📚 I’m currently studying... **for my exams** 
 
 - 💻 Programming languages that I'm using... **C++, C#, SQL, Java, Python**
 
