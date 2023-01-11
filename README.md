@@ -6,13 +6,15 @@
 
 Enthusiast student passionate about technology. Open to deepen my theoretical and practical knowledge.
 
-- 📚 I’m currently learning... **Flutter** 
+- 📚 I’m currently learning... **Swift** 
 
-- 💻 Programming languages that I'm using... **C++, C#, SQL, Java, Python**
+- 💻 Programming languages that I'm using... **C++, Java, C#, SQL, Python, Dart**
+
+- 🖼 Frameworks that I'm familiar with... **Qt Creator, WPF, Flutter**
 
 - 📬 How to reach me... **cristian.fieraru01@gmail.com**
 
-- 🕺 Fun fact... I've been part of a folk dance group for more than **10 years**
+- 🕺 Fun fact... I've been part of a folk dance group for more than **12 years**
 
 <br>
 
