@@ -6,9 +6,9 @@
 
 Enthusiast student passionate about technology. Open to deepen my theoretical and practical knowledge.
 
-- 📚 I’m currently learning... **Swift** 
+- 📚 I’m currently learning... **Deep Learning concepts** 
 
-- 💻 Programming languages that I'm using... **C++, Java, C#, SQL, Python, Dart**
+- 💻 Programming languages that I'm using... **C/C++, Java, C#, SQL, Python, Dart** + basic knowledge of Swift, Kotlin
 
 - 🖼 Frameworks that I'm familiar with... **Qt Creator, WPF, Flutter**
 
