@@ -4,13 +4,15 @@
 
 ## About me
 
-Enthusiast student passionate about technology. Open to deepen my theoretical and practical knowledge.
+As an enthusiastic MSc student passionate about technology, I am open to deepening my theoretical and practical knowledge. Additionally, I provide assistance to students during faculty laboratory classes and contribute to their educational process.
 
-- 📚 I’m currently learning... **Deep Learning concepts** 
+<br>
 
-- 💻 Programming languages that I'm using... **C/C++, Java, C#, SQL, Python, Dart** + basic knowledge of Swift, Kotlin
+- 💻 Programming languages that I'm using... **C/C++, Java, C#, SQL, Dart, Python** + basic knowledge of Swift, Kotlin
 
-- 🖼 Frameworks that I'm familiar with... **Qt Creator, WPF, Flutter**
+- 🖼 Frameworks that I'm familiar with... **Qt Creator, WPF, Flutter, TensorFlow**
+
+- 📚 I’m currently learning... **advanced software engineering techniques & deep learning concepts** 
 
 - 📬 How to reach me... **cristian.fieraru01@gmail.com**
 
