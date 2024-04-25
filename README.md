@@ -33,13 +33,7 @@ As an enthusiastic MSc student passionate about technology, I am open to deepeni
 <br>
 
 <p align="center">
-  <img align="center" width="390" height= "200" src="https://github-readme-stats.vercel.app/api?username=cristian-george&show_icons=true&locale=en&theme=github_dark" alt="cristian-george" />
-
-  <img align="center" width="450" height= "150" src="https://github-readme-stats.vercel.app/api/top-langs?username=cristian-george&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="cristian-george" />
-</p>
-
-<br>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cristian-george&theme=github-dark-blue" alt="cristian-george" />
+  <img align="center" width="450" height= "150" src="https://github-readme-stats.vercel.app/api/top-langs?username=cristian-george&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="cristian-george" /> 
+  
+  <img align="center" height= "150" src="https://github-readme-streak-stats.herokuapp.com/?user=cristian-george&theme=github-dark-blue" alt="cristian-george" />
 </p>
