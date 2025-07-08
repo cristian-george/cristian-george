@@ -2,15 +2,12 @@
   
   Welcome to my github profile 👋</h3>
 
-## About me
+#### Passionate about technology. Always learning. Sharing knowledge along the way.
 
-As an enthusiastic MSc student passionate about technology, I am open to deepening my theoretical and practical knowledge. Additionally, I provide assistance to students during faculty laboratory classes and contribute to their educational process.
-
-<br>
 
 - 💻 Programming languages that I'm using... **C/C++, Java, C#, SQL, Dart, Python** + basic knowledge of Swift, Kotlin
 
-- 🖼 Frameworks that I'm familiar with... **Qt Creator, WPF, Flutter, TensorFlow**
+- 🖼 Frameworks that I'm familiar with... **Qt, WPF, Flutter, TensorFlow, & PyTorch**
 
 - 📚 I’m currently learning... **advanced software engineering techniques & deep learning concepts** 
 
